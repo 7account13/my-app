@@ -1,0 +1,25 @@
+.about-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    padding: 40px;
+    text-align:left;
+    max-width: 800px;
+    margin: auto;
+    height: 100%; 
+    background-color: rgba(0, 0, 0, 0.7);
+  }
+  
+  .about-content h2 {
+    font-size: 2.5rem;
+    margin-bottom: 20px;
+  }
+  
+  .about-content p {
+    line-height: 1.6;
+    font-size: 1.2rem;
+    margin: 10px 0;
+  }
+  

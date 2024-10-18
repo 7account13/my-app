@@ -1,0 +1,14 @@
+footer {
+    background-color: black;
+    color: white;
+    text-align: center; /* Center footer text */
+    padding: 10px 0; /* Padding for the footer */
+    position: relative; /* Positioning */
+    bottom: 0;
+    width: 100%;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  

@@ -1,0 +1,14 @@
+.home-content {
+    background-size: cover;        /* Cover the entire area */
+    background-position: center;   /* Center the image */
+    background-repeat: no-repeat;  /* Prevent the image from repeating */
+    height: 100vh;                /* Full viewport height */
+    width: 100%;                  /* Full width */
+    color: white;                 /* Text color for visibility */
+    display: flex;                /* Use flexbox for centering */
+    flex-direction: column;       /* Stack items vertically */
+    justify-content: center;      /* Center items vertically */
+    align-items: center;          /* Center items horizontally */
+    padding: 20px;                /* Optional padding */
+  }
+  
