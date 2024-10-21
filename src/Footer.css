@@ -1,9 +1,9 @@
 footer {
     background-color: black;
     color: white;
-    text-align: center; /* Center footer text */
-    padding: 10px 0; /* Padding for the footer */
-    position:fixed; /* Positioning */
+    text-align: center; 
+    padding: 10px 0; 
+    position:fixed; 
     bottom: 0;
     width: 100%;
   }

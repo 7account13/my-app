@@ -12,13 +12,13 @@
   
   .contact-heading {
     font-size: 32px;
-    color: #c30707;
+    color: #eae2e2;
     margin-bottom: 10px;
   }
   
   .contact-description {
     font-size: 18px;
-    color: #e90909;
+    color: #e8e0e0;
     margin-bottom: 30px;
   }
   
@@ -30,7 +30,7 @@
   
   .form-label {
     text-align: left;
-    color: #e80808ef;
+    color: #eeebebef;
     margin-bottom: 5px;
     font-weight: bold;
   }
@@ -38,7 +38,7 @@
   .form-input,
   .form-textarea {
     padding: 10px;
-    border: 1px solid #a72f2f;
+    border: 1px solid #c19c9c;
     border-radius: 5px;
     font-size: 16px;
     width: 100%;
@@ -53,8 +53,8 @@
   
   .submit-button {
     padding: 10px 15px;
-    background-color: #b40404;
-    color: rgb(8, 255, 230);
+    background-color: #fff7f7;
+    color: #0a0e0d;
     border: none;
     border-radius: 5px;
     font-size: 16px;
