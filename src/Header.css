@@ -1,13 +1,15 @@
+
 header {
     background-color: #000000;
     padding: 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    
   }
   
   header h1 {
-    color: white;
+    color:#ffffff;
     margin: 0;
   }
   
@@ -27,7 +29,7 @@ header {
   }
   
   nav a:hover {
-    color: #21a1f1;
+    color: #ab0f0f;
   }
   
   @media (max-width: 768px) {

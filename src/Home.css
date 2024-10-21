@@ -1,14 +1,73 @@
 .home-content {
-    background-size: cover;        /* Cover the entire area */
-    background-position: center;   /* Center the image */
-    background-repeat: no-repeat;  /* Prevent the image from repeating */
-    height: 100vh;                /* Full viewport height */
-    width: 100%;                  /* Full width */
-    color: white;                 /* Text color for visibility */
-    display: flex;                /* Use flexbox for centering */
-    flex-direction: column;       /* Stack items vertically */
-    justify-content: center;      /* Center items vertically */
-    align-items: center;          /* Center items horizontally */
-    padding: 20px;                /* Optional padding */
-  }
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: white;
+  font-family: 'Arial', sans-serif;
+  padding: 20px;
+}
+
+.centered-content {
+  background-size: cover;
+  background-position: center;
+  width: 100%;
+  padding: 50px 20px; 
+  min-height: 75vh; 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+h2{
+  align-items: center;
+  color: white;
+  size:3rem;
+  margin-top: 120px;
   
+}
+
+.remaining-content {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); 
+  padding: 20px;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 100%;
+  margin-top: 90px;
+  max-width: 100%; 
+}
+
+h1 {
+  font-size: 3em;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 1.5em;
+  line-height: 1.6;
+}
+
+.quote-block {
+  background-color: rgba(255, 255, 255, 0.181); 
+  padding: 15px;
+  border-radius: 10px; 
+  text-align: left;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.author {
+  font-size: 1em;
+  color: #ccc;
+  text-align: right;
+  font-style: italic;
+  margin-top: 10px;
+}
+.redirect{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: whitesmoke;
+}
