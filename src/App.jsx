@@ -8,7 +8,7 @@ import Contact from "./Contact";
 import Login from "./Login";
 import Register from "./Register";
 import Sidebar from "./Sidebar";
-import './App.css'; // Add the CSS file for layout styling
+import './App.css'; 
 
 const App = () => {
   return (
